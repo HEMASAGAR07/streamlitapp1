@@ -1,0 +1,10 @@
+graphviz
+google-generativeai
+PyPDF2
+requests
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
+beautifulsoup4 
